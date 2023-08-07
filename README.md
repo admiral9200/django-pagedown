@@ -185,3 +185,7 @@ Check out the `pagedown_init.js` script to [see how the upload is being performe
 ## Example
 
 You can see a fully-fledged example of the widget in [`django-pagedown-example`](https://github.com/timmyomahony/django-pagedown-example)
+
+## Contact
+
+email: lion9200.world@gmail.com
